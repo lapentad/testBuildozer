@@ -1,0 +1,3 @@
+title=PhotoDemo
+author=Kess
+orientation=landscape
